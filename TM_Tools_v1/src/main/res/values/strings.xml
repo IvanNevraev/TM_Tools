@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">TM Tools</string>
+    <string name="select_ring">Выберите круг</string>
+    <string name="select_type_kp">Выберите тип КП</string>
+    <string name="ring_1">Увелка</string>
+    <string name="ring_2">Каясан</string>
+    <string name="kp_type_1">Подстанция</string>
+    <string name="kp_type_2">ПС</string>
+    <string name="kp_type_3">ППС</string>
+    <string name="kp_type_4">КН</string>
+    <string name="kp_type_5">ТП</string>
+    <string name="kp_type_6">Станция</string>
+    <string name="add_kp">Добавить КП</string>
+    <string name="number_kp_title">Номер КП</string>
+    <string name="name_kp_title">Название КП</string>
+    <string name="type_key_title">Тип ключа</string>
+    <string name="ip_mcp_title">IP МЦП</string>
+    <string name="ip_asmi_title">IP ASMI</string>
+    <string name="ip_moxa_title">IP MOXA</string>
+    <string name="ip_asmi_shos_title">IP ASMI ШОС</string>
+    <string name="location_asmi_shos_title">Расположение ASMI ШОС</string>
+    <string name="ip_moxa_shos_title">IP MOXA ШОС</string>
+    <string name="ip_first_zelax_title">IP первого ZELAX</string>
+    <string name="forward_first_zelax_title">Направление первого ZELAX</string>
+    <string name="ip_second_zelax_title">IP второго ZELAX</string>
+    <string name="forward_second_zelax_title">Направление второго ZELAX</string>
+    <string name="type_relay_title">Сколько выходных реле</string>
+    <string name="reserve_modem_title">Резервный модем</string>
+    <string name="reserve_ugzl_title">Резервный УГЗЛ</string>
+    <string name="type_restart_device_title">Тип рацухи на перезапуск</string>
+    <string name="all_ip">192.168.</string>
+    <string name="ring_1_ip">192.168.0.</string>
+    <string name="ring_2_ip">192.168.3.</string>
+    <string name="name_station_title">Название станции</string>
+    <string name="add">Добавить</string>
+    <string name="Without_type_kp">Без типа КП</string>
+    <string name="count_destroy">Количество отказов</string>
+    <string name="add_gps">Добавить координаты GPS</string>
+    <string name="add_images">Добавить фотографии</string>
+    <string name="show_work_log">Открыть журнал работ</string>
+    <string name="show_table_tu_ts">Открыть таблицу ТУ-ТС</string>
+    <array name="restart_device_type">
+        <item name="mcp">МЦП</item>
+        <item name="mcp_and_moxa">МЦП+MOXA</item>
+    </array>
+    <array name="type_relay">
+        <item>С одним</item>
+        <item>С двумя</item>
+    </array>
+    <array name="key_type">
+        <item name="key_type_1">Эксцентрик</item>
+        <item name="key_type_2">Пятигранник</item>
+        <item name="key_type_3">Уникальный</item>
+        <item name="key_type_4">Для новых ПС</item>
+        <item name="key_type_5">Клюка</item>
+    </array>
+</resources>

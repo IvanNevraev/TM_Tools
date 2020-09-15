@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginLeft="10dp"
+    android:layout_marginRight="10dp"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/select_type_kp"
+        android:textColor="#0E0E0E"
+        android:textSize="36sp" />
+
+    <Button
+        android:id="@+id/kp_type_1"
+        style="@style/button_select"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:onClick="select_type_kp"
+        android:text="@string/kp_type_1" />
+
+    <Button
+        android:id="@+id/kp_type_2"
+        style="@style/button_select"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="select_type_kp"
+        android:text="@string/kp_type_2" />
+
+    <Button
+        android:id="@+id/kp_type_3"
+        style="@style/button_select"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="select_type_kp"
+        android:text="@string/kp_type_3" />
+
+    <Button
+        android:id="@+id/kp_type_4"
+        style="@style/button_select"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="select_type_kp"
+        android:text="@string/kp_type_4" />
+
+    <Button
+        android:id="@+id/kp_type_5"
+        style="@style/button_select"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="select_type_kp"
+        android:text="@string/kp_type_5" />
+
+    <Button
+        android:id="@+id/kp_type_6"
+        style="@style/button_select"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="select_type_kp"
+        android:text="@string/kp_type_6" />
+
+</LinearLayout>

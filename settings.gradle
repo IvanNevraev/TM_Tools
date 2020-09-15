@@ -1,0 +1,4 @@
+rootProject.name='TM_Tools'
+include ':app'
+include ':TM_Tools_v1'
+include ':TM_Tools_v_01'
